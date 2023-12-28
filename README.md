@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Leave Letter Generator is a Python application built using the Tkinter GUI toolkit. It reads employee information from an Excel file and generates offer letters for each employee. The offer letters are created in both DOCX and PDF formats.
+The offer Letter Generator is a Python application built using the Tkinter GUI toolkit. It reads employee information from an Excel file and generates offer letters for each employee. The offer letters are created in both DOCX and PDF formats.
 
 ## Author
 
